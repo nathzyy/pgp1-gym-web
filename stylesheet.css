@@ -164,6 +164,7 @@ input{
     cursor: pointer;
     padding: 20px;
     font-weight: bolder;
+    display: block;
 }
  
 
