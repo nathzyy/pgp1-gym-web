@@ -104,7 +104,37 @@ body{
 .join:hover {
     opacity: 1;
 }
-
+.facility-wrapper{
+	background-color:#FFFFFF;
+	padding-left:5%;
+	padding-right:5%;
+	text-align:center;
+}
+.heading{
+	padding-top: 30px;
+	padding-bottom:20px;
+	color:#000000;
+}
+.facility{
+	float:left;
+	width:33.33333333333333333%;
+	
+}
+.facility-icon{
+	position:relative;
+}
+.facility-icon p{
+	position: absolute;
+	top::44%;
+	width:100%;
+	color:#000000;
+	padding-bottom:50px;
+}
+img{
+	border-radius:50%;
+	height: 150px;
+	width:150px;
+}
 
 
 
