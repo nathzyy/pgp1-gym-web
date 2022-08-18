@@ -53,6 +53,7 @@ body{
 .header-right a{
     color: white;
     text-decoration: none;
+    font-weight : bold;
 }
 
 ul a:hover {
