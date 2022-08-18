@@ -105,7 +105,6 @@ body{
     opacity: 1;
 }
 .facility-wrapper{
-	background-color:#FFFFFF;
 	padding-left:5%;
 	padding-right:5%;
 	text-align:center;
@@ -113,7 +112,7 @@ body{
 .heading{
 	padding-top: 30px;
 	padding-bottom:20px;
-	color:#000000;
+	color:#fff;
 }
 .facility{
 	float:left;
@@ -125,9 +124,9 @@ body{
 }
 .facility-icon p{
 	position: absolute;
-	top::44%;
 	width:100%;
-	color:#000000;
+	color:#fff;
+    margin-top: 15px;
 	padding-bottom:50px;
 }
 img{
@@ -136,8 +135,40 @@ img{
 	width:150px;
 }
 
+.form-wrapper{
+    text-align: center;
+    padding-left:5%;
+	padding-right:5%;
+    margin-top: 250px;
+}
 
+.txt-form{
+    color: #fff;
+    font-size: 18px;
+    margin-top: 15px;
+    padding: 3px;
+    margin-bottom: 3px;
+}
 
+input{
+    width: 400px;
+    height: 30px;
+    border-radius: 5px;
+    padding: 5px;
+    text-align: center;
+}
 
+.submit-form{
+    background-color: #A81515;
+    color: #fff;
+    cursor: pointer;
+    width: 415px;
+    display: block;
+    margin-top: 40px;
+    margin-left: 405px;
+    padding: 20px;
+    font-weight: bolder;
+}
+ 
 
     
