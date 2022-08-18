@@ -56,9 +56,8 @@ body{
     font-weight : bold;
 }
 
-ul a:hover {
-    color: #A81515;
-    background-color: black;
+.header-right li:hover{
+    background-color: #1E1E1E;
 }
 
 .top-wrapper {
