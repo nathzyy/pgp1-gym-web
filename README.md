@@ -3,7 +3,7 @@ Website Project 1 Bootcamp Progate: HTML & CSS
 
 Anggota : 
   - Joseph Nathanael Zebua
-  - Sarah
+  - Sarah Putri Salsabila
   - M Ikbal Abdul Azis
   - Hannan Nawawi 
   - Ria Anggelina Hutabarat
