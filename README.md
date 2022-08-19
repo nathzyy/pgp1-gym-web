@@ -1,5 +1,5 @@
 # pgp1-gym-web
-Website Project 1 Bootcamp Progate: HTML & CSS
+Website Project 1 Bootcamp Progate: HTML & CSS (Progym Team)
 
 Anggota : 
   - Joseph Nathanael Zebua
