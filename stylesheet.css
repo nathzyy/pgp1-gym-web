@@ -156,17 +156,23 @@ input{
     border-radius: 5px;
     padding: 5px;
     text-align: center;
+    background-color: rgb(220, 218, 218);
+    margin-bottom: 10px;
 }
 
 .submit-form{
     background-color: #A81515;
     color: #fff;
     cursor: pointer;
-    width: 450px;
+    width: 200px;
     display: block;
     padding: 20px;
-    font-weight: bolder;
+    font-weight: bold;
     text-align: center;
+    margin-top: 30px;
+    margin: 0 auto;
+    line-height: 5px;
+    text-transform: uppercase;
 }
  
 
