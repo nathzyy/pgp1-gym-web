@@ -39,6 +39,7 @@ body{
     font-size: 40px;
     padding: 20px 100px;
     font-style: italic;
+    font-weight: bold;
 }
 
 .header-right {
@@ -107,40 +108,40 @@ body{
     opacity: 1;
 }
 .facility-wrapper{
-	padding-left:5%;
-	padding-right:5%;
-	text-align:center;
+    padding-left:5%;
+    padding-right:5%;
+    text-align:center;
 }
 .heading{
-	padding-top: 30px;
-	padding-bottom:20px;
-	color:#fff;
+    padding-top: 30px;
+    padding-bottom:20px;
+    color:#fff;
 }
 .facility{
-	float:left;
-	width:33.33333333333333333%;
-	
+    float:left;
+    width:33.33333333333333333%;
+    
 }
 .facility-icon{
-	position:relative;
+    position:relative;
 }
 .facility-icon p{
-	position: absolute;
-	width:100%;
-	color:#fff;
+    position: absolute;
+    width:100%;
+    color:#fff;
     margin-top: 15px;
-	padding-bottom:50px;
+    padding-bottom:50px;
 }
 img{
-	border-radius:50%;
-	height: 150px;
-	width:150px;
+    border-radius:50%;
+    height: 150px;
+    width:150px;
 }
 
 .form-wrapper{
     text-align: center;
     padding-left:5%;
-	padding-right:5%;
+    padding-right:5%;
     margin-top: 250px;
 }
 
