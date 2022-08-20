@@ -177,6 +177,17 @@ input{
     line-height: 5px;
     text-transform: uppercase;
 }
- 
+
+.footer{
+
+    background-color: #A81515;
+    font-size: small;
+    color: #fff;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    text-align: center;
+    margin-top: 10px ;
+}
+
 
     
