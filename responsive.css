@@ -1,4 +1,4 @@
-/* Tablet */
+/* Tablet Udah Bisa*/
 @media all and (max-width: 1000px) {
   .facility {
     width: 33,33333333333333%;
@@ -14,23 +14,20 @@
   }
   
 
-/* Smartphone */
+/* Smartphone form inputnya belum rapi*/
 @media all and (max-width: 670px) {
   .facility {
     width: 100%;
   }
   
-  
   .top-wrapper {
     text-align: center;
   }
   
-  /* Tambahkan CSS untuk header-right */
   .header-right {
     display: none;
   }
   
-  /* Tambahkan CSS untuk menu-icon */
   .menu-icon{
     display: block;
   }
