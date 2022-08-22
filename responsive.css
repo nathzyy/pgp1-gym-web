@@ -1,4 +1,4 @@
-/* Tablet Udah Bisa*/
+/* Tablet Udah Bisa (disarankan pilih iPad untuk tes inspectnya) */
 @media all and (max-width: 1000px) {
   .facility {
     width: 33,33333333333333%;
@@ -14,7 +14,7 @@
   }
   
 
-/* Smartphone form inputnya belum rapi*/
+/* Smartphone */
 @media all and (max-width: 670px) {
   .facility {
     width: 100%;
